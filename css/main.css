@@ -1,0 +1,42 @@
+body {
+    font-family: Arial,sans-serif;
+}
+#container {
+    padding: 10px;
+    width: 1000px;
+    height: 80%;
+    background-color: RGBA(95, 95, 95, 1);
+    margin-left: 170px;
+    margin-top: 50px;
+}
+#track {
+    width: 900px;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    margin: 20px auto;
+}
+#plane {
+    height: 92px;
+    width: 100px;
+    position: relative;
+    left: 0px;
+}
+#stopButton {
+    padding-top: 15px;
+    margin: 10px auto;
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    color: red;
+    text-align:center;
+    font-size: 24px;
+    line-height: 30px;
+    margin-left: 450px;
+}
+
+h3 {
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+    letter-spacing: 1px;
+    margin-left: 18px;
+}
